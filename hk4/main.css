@@ -17,5 +17,7 @@
     width: 140px;
   }
   .navbar-link-title {
-    color: white
+    color: white;
+    text-decoration: none
   }
+  
