@@ -28,7 +28,11 @@
   }
   .openstorebtn {
     border: 1px solid #fff;
-    
+    color: white;
+    text-decoration: none;
+    border-radius: 50px;
+    padding: 5px 21px;
+
   }
 
   
