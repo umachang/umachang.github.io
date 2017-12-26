@@ -18,6 +18,9 @@
   }
   .navbar-link-title {
     color: white;
-    text-decoration: none
+    text-decoration: none;
+  }
+  .navbar-right {
+    float: right;
   }
   
